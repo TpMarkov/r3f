@@ -9,6 +9,8 @@ const Navbar = () => {
       const isScrolled = window.scrollY > 10
       if (isScrolled) {
         setScrolled(true)
+      } else {
+        setScrolled(false)
       }
     }
 
