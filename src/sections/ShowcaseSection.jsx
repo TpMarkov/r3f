@@ -48,7 +48,7 @@ const ShowcaseSection = () => {
                   called
                   Ryde</h2>
                 <p>
-                  An app build with React Native, Expo, & TailwindCSS for a fast, user-friendly experience.
+                  An app built with React Native, Expo, & TailwindCSS for a fast, user-friendly experience.
                 </p>
               </div>
             </div>
