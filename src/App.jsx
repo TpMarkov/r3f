@@ -1,12 +1,11 @@
 import React from 'react'
-import Navbar from "./components/Navbar.jsx";
-import Hero from "../sections/Hero.jsx";
+import Hero from './sections/Hero.jsx'
 
 const App = () => {
   return (
-      <>
-        <Hero/>
-      </>
+    <>
+      <Hero />
+    </>
   )
 }
 export default App
